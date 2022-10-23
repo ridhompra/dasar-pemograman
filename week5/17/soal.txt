@@ -1,0 +1,29 @@
+Buatlah program dalam bahasa Go untuk menghitung deret: 2n+2n+1+2n+2+...+2m
+
+dengan n dan m adalah bilangan bulat positif dan n < m.
+
+Masukan terdiri dari dua baris. Baris pertama adalah bilangan bulat n, baris kedua adalah bilangan bulat  m.
+
+Keluaran berupa jumlah deret tersebut dengan pembulatan 2 digit di belakang koma.
+
+Misalkan jika n = 1 dan m = 5, maka deretnya adalah 2/1 + 2/2 + 2/3 + 2/4 + 2/5.
+
+
+For example:
+Input 	Result
+
+1
+5
+
+	
+
+4.57
+
+3
+7
+
+	
+
+2.19
+
+Answer:(penalty regime: 0 %)

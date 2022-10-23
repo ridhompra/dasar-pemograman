@@ -1,0 +1,38 @@
+Seorang adik sedang bermain tebak angka bersama kakaknya. Keduanya masing-masing menuliskan angka dari 0 hingga 9 di atas secarik kertas secara rahasia dan membandingkan angka-angka itu. Adik dinyatakan sebagai pemenang pada setiap ronde jika angkanya 2 x lipat dari angka kakak, atau angka adik lebih kecil dari angka kakak dan angka kakak ganjil, atau selisih angka adik dengan kakak 1. Permainan dilakukan berulang-ulang selama n ronde. Buatlah program dalam bahasa Go untuk mengimplementasikan game angka tersebut.
+
+Masukan berupa bilangan bulat n yang menyatakan jumlah rode permainan. Selanjutnya diikuti n baris yang berisi pasangan bilangan bulat angka adik dan kakak.
+
+Keluaran berupa boolean true jika adik menang dari kakak, atau boolean false jika kakak yang menang. Banyaknya nilai true false itu sebanyak n.
+
+For example:
+Input 	Result
+
+4
+4 2
+9 3
+1 3
+1 8
+
+	
+
+true
+false
+true
+false
+
+5
+0 2
+5 7
+1 3
+7 8
+2 6
+
+	
+
+false
+true
+true
+true
+false
+
+Answer:(penalty regime: 0 %)

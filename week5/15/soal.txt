@@ -1,0 +1,29 @@
+Buatlah program dalam bahasa Go untuk mencetak n string yang diinputkan.
+
+Masukan berupa bilangan bulat n dan string x.
+
+Keluaran berupa string x sebanyak n kali.
+
+For example:
+Input 	Result
+
+4 HEI
+
+	
+
+HEI
+HEI
+HEI
+HEI
+
+5 TEL-U
+
+	
+
+TEL-U
+TEL-U
+TEL-U
+TEL-U
+TEL-U
+
+Answer:(penalty regime: 0 %)

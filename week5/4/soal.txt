@@ -1,0 +1,25 @@
+Seorang dosen datang ke kampus dengan durasi waktu yang berbeda-beda bergantung tingkat kemacetan lalu lintas. Buatlah program dalam bahasa Go untuk menghitung berapa total waktu yang ditempuh dalam n hari dalam satuan jam dan menit.
+
+Masukan berupa bilangan bulat n yang menyatakan jumlah hari. Selanjutnya diikuti n baris bilangan bulat yang menyatakan durasi waktu dalam menit kedatangan ke kampus
+
+Keluaran berupa total waktu dalam satuan jam dan menit.
+
+For example:
+Input 	Result
+
+3
+61
+45
+15
+
+	
+
+2 1
+
+2
+45
+25
+
+	
+
+1 10

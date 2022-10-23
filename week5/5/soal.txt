@@ -1,0 +1,42 @@
+Seorang pemilik startup memberlakukan jam kerja yang ketat di kantornya. Setiap pegawai harus masuk selama 40 jam dalam seminggu. Buatlah program dalam bahasa Go untuk memeriksa apakah seorang pegawai telah masuk selama 40 jam atau tidak.
+
+Masukan berupa bilangan bulat n yang menyatakan jumlah hari. Selanjutnya diikuti n baris yang berisi jam masuk dan jam keluar dalam bilangan bulat.
+
+Keluaran berupa boolean true jika tepat atau lebih dari 40 jam dan false jika tidak.
+
+For example:
+Input 	Result
+
+5
+8 0 5 16 0 0
+8 0 0 16 0 0
+8 0 0 16 0 0
+8 0 0 16 0 0
+8 0 0 16 0 0
+
+	
+
+false
+
+5
+8 0 5 16 0 0
+8 0 0 16 0 5
+8 0 0 16 0 0
+8 0 0 16 0 0
+8 0 0 16 0 0
+
+	
+
+true
+
+4
+8 0 0 20 0 0
+8 0 0 16 0 0
+8 0 0 16 0 0
+8 0 0 21 0 0
+
+	
+
+true
+
+Answer:(penalty regime: 0 %)

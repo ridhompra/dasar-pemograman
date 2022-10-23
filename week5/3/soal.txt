@@ -1,0 +1,4 @@
+Buatlah program dalam bahasa Go untuk menjumlahkan bilangan dari 1 hingga 1000 dengan menggunakan struktur perulangan for.
+Masukan -
+Keluaran berupa jumlah
+Answer:(penalty regime: 0 %)

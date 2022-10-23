@@ -1,0 +1,38 @@
+Kakak menabung uang di celengannya setiap hari Minggu. Uniknya, kakak selalu menabung sebesar uang tabungan minggu lalu ditambah Rp 2500. Buatlah program dalam bahasa Go untuk menjumlahkan uang kakak setelah n minggu.
+
+Masukan terdiri dari dua baris bilangan bulat. Baris pertama adalah tabungan di hari Minggu pertama. Baris kedua menyatakan n minggu.
+
+Keluaran berupa total tabungan kakak setelah n minggu.
+
+For example:
+Input 	Result
+
+4000
+1
+
+	
+
+4000
+
+4000
+2
+
+	
+
+10500
+
+4000
+3
+
+	
+
+19500
+
+4000
+5
+
+	
+
+45000
+
+Answer:(penalty regime: 0 %)

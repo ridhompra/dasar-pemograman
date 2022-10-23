@@ -1,0 +1,36 @@
+Buatlah program dalam bahasa Go untuk menghitung rata-rata harmonis dari n bilangan X1, X2, X3, ..., Xn. Rata-rata harmonis dari n bilangan dihitung dengan cara membagi n dengan jumlah kebalikan dari masing-masing bilangan tersebut.  Rumusnya sebagai berikut:
+
+R=n∑1Xi
+
+
+Masukan terdiri dari beberapa baris. Baris pertama adalah n. Selanjutnya n baris bilangan. 
+
+Keluaran adalah rata-rata harmonis dengan pembulatan 2 digit di belakang koma.
+
+
+For example:
+Input 	Result
+
+4
+10000
+4000
+5000
+25000
+
+	
+
+6779.66
+
+6
+16
+25
+12
+91
+14
+58
+
+	
+
+21.02
+
+Answer:(penalty regime: 0 %)

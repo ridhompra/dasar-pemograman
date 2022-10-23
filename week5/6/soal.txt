@@ -1,0 +1,4 @@
+Buatlah program dalam bahasa Go untuk menjumlahkan bilangan dari 2 hingga 50 dengan menggunakan struktur perulangan for.
+Masukan -
+Keluaran berupa jumlah.
+Answer:(penalty regime: 0 %)

@@ -1,0 +1,37 @@
+Untuk menyemangati hobi adiknya bermain sepakbola, seorang kakak berjanji akan memberikan hadiah apabila total gol yang dicetak adik selama n pertandingan berjumlah 10 gol. Buatlah program dalam bahasa Go untuk menentukan apakah adik diberi hadiah atau tidak.
+
+Masukan terdiri dari n pertandingan, diikuti banyaknya gol setiap pertandingan.
+
+Keluaran berupa boolean true jika adik diberi hadiah, atau false jika tidak.
+
+For example:
+Input 	Result
+
+7
+3
+2
+0
+1
+2
+1
+1
+
+	
+
+true
+
+8
+1
+1
+0
+1
+0
+2
+1
+0
+
+	
+
+false
+
+Answer:(penalty regime: 0 %)

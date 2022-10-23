@@ -1,0 +1,4 @@
+Buatlah program dalam bahasa Go untuk menjumlahkan bilangan 1 + 3 + 5 + 7 + 9 + ... + 99 dengan menggunakan struktur perulangan for.
+Masukan -
+Keluaran berupa jumlah
+Answer:(penalty regime: 0 %)

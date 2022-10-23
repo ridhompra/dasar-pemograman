@@ -1,0 +1,25 @@
+Seorang paman selalu mengirim pulsa kepada sejumlah n keponakannya secara acak setiap bulan. Buatlah program dalam bahasa Go untuk menghitung total pulsa yang ia kirimkan dalam bulan tertentu.
+
+Masukan berupa bilangan bulat n yang menyatakan jumlah keponakan yang akan dikirim pulsa. Selanjutnya diikuti n baris bilangan bulat yang menyatakan nominal pulsa yang dikirim kepada keponakannya.
+
+Keluaran berupa total pulsa yang ia kirimkan.
+
+For example:
+Input 	Result
+
+3
+49500
+50000
+100000
+
+	
+
+199500
+
+2
+75000
+25000
+
+	
+
+100000

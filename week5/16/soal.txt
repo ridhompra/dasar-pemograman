@@ -1,0 +1,30 @@
+Buatlah program dalam bahasa Go untuk menghitung jumlah deret: 4n+4n+1+4n+2+...+4m
+
+dengan n dan m adalah bilangan bulat positif dan n < m. 
+
+Misalkan jika n = 1 dan m = 10, maka deretnya adalah 4/1 + 4/2 + 4/3 + 4/4 + 4/5 + 4/6 + 4/7 + 4/8 + 4/9 + 4/10.
+
+Masukan terdiri dari dua baris bilangan bulat. Baris pertama adalah n, baris kedua adalah m.
+
+Keluaran berupa jumlah deret tersebut dengan pembulatan 2 digit di belakang koma.
+
+Catatan: Gunakan struktur perulangan FOR untuk mengerjakan soal ini.
+
+For example:
+Input 	Result
+
+1
+5
+
+	
+
+9.13
+
+3
+7
+
+	
+
+4.37
+
+Answer:(penalty regime: 0 %)
